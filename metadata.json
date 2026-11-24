@@ -1,0 +1,6 @@
+{
+  "name": "Hotspot Arcade",
+  "description": "Connect your phone to any TV via Hotspot and play multiplayer arcade games completely offline without internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
